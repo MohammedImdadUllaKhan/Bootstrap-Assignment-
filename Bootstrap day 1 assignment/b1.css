@@ -1,0 +1,31 @@
+
+
+.my-body{
+    background-color: rgb(102, 163, 133);
+    height:1000px
+}
+
+.values{
+    height: 150px;
+    background-color:orangered;
+    text-align: center;
+    font-family: fantasy;
+}
+
+.values-1{
+    background-color:white;
+    text-align: center;
+    font-family: fantasy;
+    height: 150px;
+}
+
+.values-2{
+    background-color:green;
+    text-align: center;
+    font-family: fantasy;
+    height: 150px;
+}
+
+.my-prop{
+    
+}
